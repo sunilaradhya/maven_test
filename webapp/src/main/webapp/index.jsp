@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>WELCOME TO DEVOPS CLASSES</h1>
+<h1>WELCOME 2 DEVOPS CLASSES</h1>
 </body>
 <body style="color:red;">
  <div class="container">
